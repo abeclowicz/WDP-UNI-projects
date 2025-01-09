@@ -74,7 +74,7 @@ void insert(Node *current, Node *previous, int value) {
 	current->value = maksi(current->left_son, current->right_son);
 }
 
-// adding new root and new path
+// adding a new root and a new path
 void pushBack(int value) {
 	Node *previous_root = roots.empty() ? nullptr : roots.back();
 	Node *current = new Node(INT_MIN, INT_MAX);
