@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-
 #include "prev.h"
 
 int main() {
@@ -17,6 +16,6 @@ int main() {
     pushBack(6);
     done();
     
-	std::cout<<"koniec maina\n";
+    std::cout<<"koniec maina\n";
 }
 
