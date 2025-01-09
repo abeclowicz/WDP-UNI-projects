@@ -1,5 +1,4 @@
 #!/bin/bash
-
 g++ prev.cpp test.cpp -o test
 
 for((i=0; ;i++)) do
