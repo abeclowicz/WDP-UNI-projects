@@ -1,2 +1,1 @@
-# moj-projekt
-nauka
+Solvy z projektów z WDP.
