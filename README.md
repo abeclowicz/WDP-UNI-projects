@@ -1,1 +1,1 @@
-Solvy z projektów z WDP.
+Solvy z projektów z WDP*.
